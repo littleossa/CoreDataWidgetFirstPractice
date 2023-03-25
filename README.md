@@ -1,5 +1,5 @@
 # CoreDataWidgetFirstPractice
-Example of the widget with CoreData, Intents Extension
+Example of the widget with CoreData, Intents Extension for the begginers.
 
 ## Demo
 ![coredata-intent-present](https://user-images.githubusercontent.com/67716751/227742873-23d95940-78db-4ab8-a41e-4e685ba126c4.gif)
